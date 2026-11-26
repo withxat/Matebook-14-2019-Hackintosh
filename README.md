@@ -119,6 +119,9 @@ Related nice repositories:
 
 Contributions to this guide are welcome! If you find improvements or have additional tips, feel free to contribute.
 
-## License 📜
+## Author 👤
 
-This project is licensed under the [MIT License](LICENSE).
+**Matebook-14-2019-Hackintosh** © [Xat](https://github.com/withxat), released under the [MIT](LICENSE) License.<br>
+Authored and maintained by Xat with help from contributors ([list](https://github.com/withxat/Matebook-14-2019-Hackintosh/graphs/contributors)).
+
+> [Blog](https://xat.sh) · GitHub [@withxat](https://github.com/withxat) · Telegram [@withxat](https://t.me/withxat) · X [@withxat](https://x.com/withxat) · Email [i@xat.sh](mailto:i@xat.sh)
